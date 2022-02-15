@@ -21,6 +21,8 @@ body {
     color: white;
     padding-top: 10px;
     padding-bottom: 20px;
+    font-style: italic;
+    font-weight: bold;
 }
 
 .bg-footer {
@@ -28,4 +30,13 @@ body {
     color: white;
 }
 
+li {
+    padding-right: 10px;
+}
+
+.title {
+    color: #31bafd;
+    font-style: italic;
+    font-weight: bold;
+}
 
